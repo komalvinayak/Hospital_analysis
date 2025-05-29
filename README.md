@@ -3,7 +3,8 @@
 #  Optimizing Hospital Operations Through Data Insights
 
 A data analytics project developed during industrial training at **Pisoft Informatics Pvt. Ltd.**, aimed at enhancing hospital decision-making and operational efficiency using **Python**, **Power BI**, and **structured hospital datasets** (OPD, IPD, LAB, Inventory, and Staff Scheduling).
-[View Power BI Dashboard]([https://your-dashboard-link](https://app.powerbi.com/reportEmbed?reportId=61553bd7-da4c-499d-b9c9-4927a8528039&autoAuth=true&ctid=54c121f0-32f6-40bf-ad36-a976120fbdc3))
+
+[View Power BI Dashboard]([https://your-dashboard-link](https://app.powerbi.com/reportEmbed?reportId=61553bd7-da4c-499d-b9c9-4927a8528039&autoAuth=true&ctid=54c121f0-32f6-40bf-ad36-a976120fbdc3)
 
 
 ---
