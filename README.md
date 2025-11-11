@@ -5,6 +5,14 @@
 A data analytics project developed during industrial training at **Pisoft Informatics Pvt. Ltd.**, aimed at enhancing hospital decision-making and operational efficiency using **Python**, **Power BI**, and **structured hospital datasets** (OPD, IPD, LAB, Inventory, and Staff Scheduling).
 
 ![Alt text](Page1.png)
+![Alt text](Page2.png)
+![Alt text](Page3.png)
+![Alt text](Page3.1.png)
+![Alt text](Page4.png)
+![Alt text](Page5.png)
+![Alt text](Page5.1.png)
+![Alt text](Page6.png)
+
 
 
 [View Power BI Dashboard]([https://your-dashboard-link](https://app.powerbi.com/reportEmbed?reportId=b4bd40b7-1a70-4350-9612-0c524557f65d&autoAuth=true&ctid=54c121f0-32f6-40bf-ad36-a976120fbdc3)
